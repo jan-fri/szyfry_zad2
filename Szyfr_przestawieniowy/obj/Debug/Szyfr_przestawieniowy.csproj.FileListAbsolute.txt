@@ -1,0 +1,6 @@
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_przestawieniowy\bin\Debug\Szyfr_przestawieniowy.exe.config
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_przestawieniowy\bin\Debug\Szyfr_przestawieniowy.exe
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_przestawieniowy\bin\Debug\Szyfr_przestawieniowy.pdb
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_przestawieniowy\obj\Debug\Szyfr_przestawieniowy.csprojResolveAssemblyReference.cache
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_przestawieniowy\obj\Debug\Szyfr_przestawieniowy.exe
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_przestawieniowy\obj\Debug\Szyfr_przestawieniowy.pdb

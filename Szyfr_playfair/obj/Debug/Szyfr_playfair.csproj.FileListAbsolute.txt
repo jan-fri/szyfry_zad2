@@ -1,0 +1,6 @@
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_playfair\bin\Debug\Szyfr_playfair.exe.config
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_playfair\bin\Debug\Szyfr_playfair.exe
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_playfair\bin\Debug\Szyfr_playfair.pdb
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_playfair\obj\Debug\Szyfr_playfair.exe
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_playfair\obj\Debug\Szyfr_playfair.pdb
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_playfair\obj\Debug\Szyfr_playfair.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_homofoniczny\bin\Debug\Szyfr_homofoniczny.exe.config
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_homofoniczny\bin\Debug\Szyfr_homofoniczny.exe
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_homofoniczny\bin\Debug\Szyfr_homofoniczny.pdb
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_homofoniczny\obj\Debug\Szyfr_homofoniczny.csprojResolveAssemblyReference.cache
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_homofoniczny\obj\Debug\Szyfr_homofoniczny.exe
+C:\Users\jasiek\Desktop\Studia\IV_ROK\Bezpieczenstwo_tech_inf\programy\zadanie 2\szyfrowanie\Szyfr_homofoniczny\obj\Debug\Szyfr_homofoniczny.pdb
